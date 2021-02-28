@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^2.0.1",
+    "dnscache": "0.0.4",
+    "lodash": "^4.16.4",
+    "moment-timezone": "^0.5.5",
+    "request": "^2.75.0",
+    "winston": "^2.2.0"
+  }
+}

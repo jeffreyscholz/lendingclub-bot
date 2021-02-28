@@ -1,0 +1,5 @@
+59 05 * * * /bin/sleep 30 && /usr/bin/nice -19 /usr/local/bin/node /home/ubuntu/var/lendingclub/index.js --real >> /home/ubuntu/var/log/log.log
+59 09 * * * /bin/sleep 30 && /usr/bin/nice -19 /usr/local/bin/node /home/ubuntu/var/lendingclub/index.js --real >> /home/ubuntu/var/log/log.log
+59 13 * * * /bin/sleep 30 && /usr/bin/nice -19 /usr/local/bin/node /home/ubuntu/var/lendingclub/index.js --real >> /home/ubuntu/var/log/log.log
+59 17 * * * /bin/sleep 30 && /usr/bin/nice -19 /usr/local/bin/node /home/ubuntu/var/lendingclub/index.js --real >> /home/ubuntu/var/log/log.log
+

@@ -1,0 +1,11 @@
+{
+  "minimumLoanAmount": 1234,
+  "newLoanHoursPacificTime": [6, 10, 14, 18],
+  "lcTimezone": "America/Los_Angeles",
+  "portfolioId": 1234,
+  "aid": 1234,
+  "timeout": 10000,
+  "dnsCacheTTL": 60000,
+  "realFlag": "--real",
+  "skipWait": "--skipwait"
+}
